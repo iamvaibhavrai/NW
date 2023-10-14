@@ -6,7 +6,6 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Sections from "./pages/Sections";
 import SplashScreen from "./pages/SplashScreen";
 import NetworkOfWaterways from "./pages/NetworkOfWaterways";
-import HarnessingNewTechnology from "./pages/HarnessingNewTechnology";
 import FullscreenImage from "./pages/FullscreenImage";
 import ImageMap from "./pages/ImageMap";
 
@@ -25,10 +24,6 @@ root.render(
           element={<FullscreenImage />}
         />
         <Route path="networkofwaterways" element={<NetworkOfWaterways />} />
-        <Route
-          path="harnessingnewtechnology"
-          element={<HarnessingNewTechnology />}
-        />
         <Route path="imageMap/:name" element={<ImageMap />} />
       </Routes>
     </BrowserRouter>
