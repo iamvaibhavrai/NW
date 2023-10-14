@@ -1,15 +1,37 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Sections from "./pages/Sections";
+import SplashScreen from "./pages/SplashScreen";
+import NetworkOfWaterways from "./pages/NetworkOfWaterways";
+import HarnessingNewTechnology from "./pages/HarnessingNewTechnology";
+import FullscreenImage from "./pages/FullscreenImage";
+import ImageMap from "./pages/ImageMap";
 
 const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
+  document.getElementById("root") as HTMLElement
 );
+
 root.render(
   <React.StrictMode>
-    <App />
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<SplashScreen />} />
+        <Route path="sections" element={<Sections />} />
+        <Route
+          path="fullscreenImage/:imagePath"
+          element={<FullscreenImage />}
+        />
+        <Route path="networkofwaterways" element={<NetworkOfWaterways />} />
+        <Route
+          path="harnessingnewtechnology"
+          element={<HarnessingNewTechnology />}
+        />
+        <Route path="imageMap/:name" element={<ImageMap />} />
+      </Routes>
+    </BrowserRouter>
   </React.StrictMode>
 );
 

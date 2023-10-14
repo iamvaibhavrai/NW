@@ -1,0 +1,62 @@
+[
+  {
+    "id": "nw1",
+    "title": "NW1",
+    "shape": "rect",
+    "name": "NW1",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [8250, 3100, 8850, 3800],
+    "href": "NW-1.png"
+  },
+  {
+    "id": "nw2",
+    "title": "NW2",
+    "shape": "rect",
+    "name": "NW2",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [9688, 2482, 10557, 3025],
+    "href": "NW-2.png"
+  },
+  {
+    "id": "nw3",
+    "title": "NW3",
+    "shape": "rect",
+    "name": "NW3",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [6020, 7520, 5238, 8057],
+    "href": "NW-3.png"
+  },
+  {
+    "id": "nw4",
+    "title": "NW4",
+    "shape": "rect",
+    "name": "NW4",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [7124, 5670, 7897, 6294],
+    "href": "NW-4.png"
+  },
+  {
+    "id": "nw5",
+    "title": "NW5",
+    "shape": "rect",
+    "name": "NW5",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [8700, 4450, 9500, 4950],
+    "href": "NW-5.png"
+  },
+  {
+    "id": "nw6",
+    "title": "NW6",
+    "shape": "rect",
+    "name": "NW6",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [10190, 3174, 11072, 3879],
+    "href": "NW-6.png"
+  }
+]
