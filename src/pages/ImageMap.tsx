@@ -1,5 +1,5 @@
 import ImageMapper from "react-img-mapper";
-import { useNavigate, useParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { Dimensions } from "./NetworkOfWaterways";
 import { useState } from "react";
 import nw1Areas from "../config/nw1-areas.json";
@@ -8,9 +8,10 @@ import nw3Areas from "../config/nw3-areas.json";
 import nw4Areas from "../config/nw4-areas.json";
 import nw5Areas from "../config/nw5-areas.json";
 import nw6Areas from "../config/nw6-areas.json";
+import BackButton from "./BackButton";
+import HomeButton from "./HomeButton";
 
 const ImageMap = () => {
-  const navigate = useNavigate();
   const { name } = useParams() || "nw1";
   const mapName = name || "nw1";
   const getDetails = () => {
@@ -67,16 +68,20 @@ const ImageMap = () => {
     areas: areas,
   };
   return (
-    <ImageMapper
-      src={url}
-      map={MAP}
-      width={currentDimensions?.width}
-      height={currentDimensions?.height}
-      parentWidth={currentDimensions?.width}
-      responsive
-      stayHighlighted
-      onClick={(area) => window.open(area.href, "_blank")}
-    />
+    <>
+      <BackButton />
+      <HomeButton />
+      <ImageMapper
+        src={url}
+        map={MAP}
+        width={currentDimensions?.width}
+        height={currentDimensions?.height}
+        parentWidth={currentDimensions?.width}
+        responsive
+        stayHighlighted
+        onClick={(area) => window.open(area.href, "_blank")}
+      />
+    </>
   );
 };
 

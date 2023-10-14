@@ -2,6 +2,8 @@ import ImageMapper from "react-img-mapper";
 import nwAreas from "../config/nw-areas.json";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import BackButton from "./BackButton";
+import HomeButton from "./HomeButton";
 
 export interface Dimensions {
   width: number;
@@ -40,16 +42,20 @@ const NetworkOfWaterways = () => {
   };
 
   return (
-    <ImageMapper
-      src={URL}
-      map={MAP}
-      width={currentDimensions?.width}
-      height={currentDimensions?.height}
-      parentWidth={currentDimensions?.width}
-      responsive
-      stayHighlighted
-      onClick={(area) => navigate(`/imageMap/${area.id}`)}
-    />
+    <>
+      <BackButton />
+      <HomeButton />
+      <ImageMapper
+        src={URL}
+        map={MAP}
+        width={currentDimensions?.width}
+        height={currentDimensions?.height}
+        parentWidth={currentDimensions?.width}
+        responsive
+        stayHighlighted
+        onClick={(area) => navigate(`/imageMap/${area.id}`)}
+      />
+    </>
   );
 };
 
