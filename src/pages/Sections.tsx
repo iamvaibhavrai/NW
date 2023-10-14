@@ -39,7 +39,7 @@ const Sections = () => {
           </div>
         </div>
       </a>
-      <a href="/harnessingnewtechnology" className="flex flex-1">
+      <a href="http://iwaicruisetourism.com/technology" className="flex flex-1">
         <img
           src="technology.jpeg"
           alt="splash screen"
