@@ -36,7 +36,7 @@ const ImageMap = () => {
         break;
       case "nw5":
         areas = nw5Areas;
-        url = "/NW-5.png";
+        url = "/nw-5.png";
         break;
       case "nw6":
         areas = nw6Areas;
