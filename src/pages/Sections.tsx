@@ -6,12 +6,7 @@ const Sections = () => {
     <div className="h-screen w-full flex flex-row">
       <BackButton />
       <HomeButton />
-      <a
-        href="http://iwaicruisetourism.com/"
-        target="_blank"
-        rel="noreferrer"
-        className="flex flex-1"
-      >
+      <a href="http://iwaicruisetourism.com/" className="flex flex-1">
         <img
           src="RIVER_CRUISE_TOURISM.jpeg"
           alt="splash screen"
