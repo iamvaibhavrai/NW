@@ -242,5 +242,15 @@
       9037, 2733, 9118, 2869, 9254, 2828, 9783, 2814, 9756, 2706, 9118, 2638
     ],
     "href": "NW-1.png"
+  },
+  {
+    "id": "jetty",
+    "title": "hetty",
+    "shape": "rect",
+    "name": "NW6",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [12943, 8059, 14951, 8425],
+    "href": "NW-6.png"
   }
 ]
