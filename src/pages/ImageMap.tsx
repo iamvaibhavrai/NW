@@ -44,6 +44,7 @@ const ImageMap = () => {
         url = "/NW-6.png";
         break;
       case "jetty":
+        console.log("here");
         areas = jetty;
         url = "/jetty.png";
         break;
