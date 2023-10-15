@@ -8,6 +8,7 @@ import SplashScreen from "./pages/SplashScreen";
 import NetworkOfWaterways from "./pages/NetworkOfWaterways";
 import FullscreenImage from "./pages/FullscreenImage";
 import ImageMap from "./pages/ImageMap";
+import JettyImageMap from "./pages/JettyImageMap";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
@@ -25,6 +26,7 @@ root.render(
         />
         <Route path="networkofwaterways" element={<NetworkOfWaterways />} />
         <Route path="imageMap/:name" element={<ImageMap />} />
+        <Route path="jettyImageMap" element={<JettyImageMap />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>

@@ -2,7 +2,6 @@ import ImageMapper from "react-img-mapper";
 import { useNavigate, useParams } from "react-router-dom";
 import { Dimensions } from "./NetworkOfWaterways";
 import { useState } from "react";
-import jetty from "../config/jetty.json";
 import nw1Areas from "../config/nw1-areas.json";
 import nw2Areas from "../config/nw2-areas.json";
 import nw3Areas from "../config/nw3-areas.json";
@@ -42,11 +41,6 @@ const ImageMap = () => {
       case "nw6":
         areas = nw6Areas;
         url = "/NW-6.png";
-        break;
-      case "jetty":
-        console.log("here");
-        areas = jetty;
-        url = "/jetty.png";
         break;
       default:
         areas = nw1Areas;
@@ -89,7 +83,7 @@ const ImageMap = () => {
         responsive
         onClick={(area) => {
           if (area.id === "jetty") {
-            navigate(`/imageMap/${area.id}`);
+            navigate(`/jettyImageMap`);
           } else {
             window.open(area.href, "_self");
           }

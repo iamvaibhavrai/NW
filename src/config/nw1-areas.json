@@ -1,19 +1,19 @@
 [
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "haldia",
+    "title": "NWhaldia1",
     "shape": "rect",
-    "name": "NW1",
+    "name": "haldia",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [9553, 5269, 8426, 5758],
     "href": "https://iwaicruisetourism.com/haldia"
   },
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "varanasi",
+    "title": "varanasi",
     "shape": "poly",
-    "name": "NW1",
+    "name": "varanasi",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [
@@ -23,10 +23,10 @@
     "href": "https://iwaicruisetourism.com/varanasi"
   },
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "kalughat",
+    "title": "kalughat",
     "shape": "poly",
-    "name": "NW1",
+    "name": "kalughat",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [
@@ -36,20 +36,20 @@
     "href": "https://iwaicruisetourism.com/kalughat"
   },
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "patna",
+    "title": "patna",
     "shape": "poly",
-    "name": "NW1",
+    "name": "patna",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [6323, 1892, 6269, 1960, 6269, 2543, 6405, 2543, 6405, 1933],
     "href": "https://iwaicruisetourism.com/patna"
   },
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "sahibganj",
+    "title": "sahibganj",
     "shape": "poly",
-    "name": "NW1",
+    "name": "sahibganj",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [
@@ -58,10 +58,10 @@
     "href": "https://iwaicruisetourism.com/sahibganj/"
   },
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "farakka",
+    "title": "farakka",
     "shape": "poly",
-    "name": "NW1",
+    "name": "farakka",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [
