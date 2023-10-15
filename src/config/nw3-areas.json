@@ -1,73 +1,63 @@
 [
   {
-    "id": "nw1",
-    "title": "NW1",
+    "id": "thirukunnapuzha",
+    "title": "thirukunnapuzha",
     "shape": "rect",
-    "name": "NW1",
+    "name": "thirukunnapuzha",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [4193, 2523, 4858, 2862],
-    "href": "NW-1.png"
+    "coords": [4951, 5356, 6267, 5546],
+    "href": "https://iwaicruisetourism.com/thirukunnapuzha-terminal/"
   },
   {
-    "id": "nw2",
-    "title": "NW2",
+    "id": "kayamkulam",
+    "title": "kayamkulam",
     "shape": "rect",
-    "name": "NW2",
+    "name": "kayamkulam",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [4437, 1614, 4600, 2292],
-    "href": "NW-2.png"
+    "coords": [6389, 5709, 7353, 5912],
+    "href": "https://iwaicruisetourism.com/aiyramthengu-kayamkulam-terminal"
   },
   {
-    "id": "nw3",
-    "title": "NW3",
+    "id": "thanneermukkom",
+    "title": "thanneermukkom",
     "shape": "rect",
-    "name": "NW3",
+    "name": "thanneermukkom",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [4871, 1356, 5020, 2197],
-    "href": "NW-3.png"
+    "coords": [4978, 4366, 6213, 4515],
+    "href": "https://iwaicruisetourism.com/thanneermukkom-terminal"
   },
   {
-    "id": "nw4",
-    "title": "NW4",
+    "id": "maradu",
+    "title": "maradu",
     "shape": "rect",
-    "name": "NW4",
+    "name": "maradu",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [5224, 2048, 5428, 2672],
-    "href": "NW-4.png"
+    "coords": [6132, 3671, 6810, 3861],
+    "href": "https://iwaicruisetourism.com/maradu-terminal"
   },
   {
-    "id": "nw5",
-    "title": "NW5",
+    "id": "kottapuram",
+    "title": "kottapuram",
     "shape": "rect",
-    "name": "NW5",
+    "name": "kottapuram",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [5550, 1316, 5699, 1967],
-    "href": "NW-5.png"
+    "coords": [5684, 2189, 7841, 2732],
+    "href": "https://iwaicruisetourism.com/kottapuram-terminal"
   },
   {
-    "id": "nw6",
-    "title": "NW6",
+    "id": "vaikom",
+    "title": "vaikom",
     "shape": "rect",
-    "name": "NW6",
+    "name": "vaikom",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [5997, 1804, 6174, 2686],
-    "href": "NW-6.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [7300, 1573, 7449, 2441],
-    "href": "NW-1.png"
+    "coords": [6199, 4129, 6891, 4305],
+    "href": "https://iwaicruisetourism.com/vaikom-terminal"
   },
   {
     "id": "nw1",
@@ -76,87 +66,7 @@
     "name": "NW1",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [8019, 1424, 8196, 2401],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9050, 2862, 8508, 3092],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9064, 2882, 9797, 3045],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9485, 3940, 10407, 4157],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9458, 4835, 8766, 5093],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9525, 4754, 10529, 5215],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9553, 5269, 8426, 5758],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9390, 5880, 9851, 6178],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "poly",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [2049, 1926, 3419, 1885, 3202, 2577, 2076, 2197],
-    "href": "NW-1.png"
+    "coords": [6661, 6204, 8018, 6692],
+    "href": "https://iwaicruisetourism.com/kollam-terminal"
   }
 ]

@@ -6,158 +6,8 @@
     "name": "NW1",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [4193, 2523, 4858, 2862],
-    "href": "https://google.com"
-  },
-  {
-    "id": "nw2",
-    "title": "NW2",
-    "shape": "rect",
-    "name": "NW2",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [4437, 1614, 4600, 2292],
-    "href": "NW-2.png"
-  },
-  {
-    "id": "nw3",
-    "title": "NW3",
-    "shape": "rect",
-    "name": "NW3",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [4871, 1356, 5020, 2197],
-    "href": "NW-3.png"
-  },
-  {
-    "id": "nw4",
-    "title": "NW4",
-    "shape": "rect",
-    "name": "NW4",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [5224, 2048, 5428, 2672],
-    "href": "NW-4.png"
-  },
-  {
-    "id": "nw5",
-    "title": "NW5",
-    "shape": "rect",
-    "name": "NW5",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [5550, 1316, 5699, 1967],
-    "href": "NW-5.png"
-  },
-  {
-    "id": "nw6",
-    "title": "NW6",
-    "shape": "rect",
-    "name": "NW6",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [5997, 1804, 6174, 2686],
-    "href": "NW-6.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [7300, 1573, 7449, 2441],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [8019, 1424, 8196, 2401],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9050, 2862, 8508, 3092],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9064, 2882, 9797, 3045],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9485, 3940, 10407, 4157],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9458, 4835, 8766, 5093],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9525, 4754, 10529, 5215],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
     "coords": [9553, 5269, 8426, 5758],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "rect",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [9390, 5880, 9851, 6178],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "poly",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [2049, 1926, 3419, 1885, 3202, 2577, 2076, 2197],
-    "href": "NW-1.png"
+    "href": "https://iwaicruisetourism.com/haldia"
   },
   {
     "id": "nw1",
@@ -170,7 +20,7 @@
       3745, 2129, 3745, 2265, 4315, 2292, 4356, 2441, 4478, 2469, 4491, 2333,
       4396, 2252, 4356, 2143, 4057, 2129
     ],
-    "href": "NW-1.png"
+    "href": "https://iwaicruisetourism.com/varanasi"
   },
   {
     "id": "nw1",
@@ -183,7 +33,7 @@
       6676, 1411, 5997, 1411, 6011, 1682, 6174, 1777, 6215, 1899, 6255, 1953,
       6391, 1723, 6676, 1723
     ],
-    "href": "NW-1.png"
+    "href": "https://iwaicruisetourism.com/kalughat"
   },
   {
     "id": "nw1",
@@ -193,19 +43,7 @@
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
     "coords": [6323, 1892, 6269, 1960, 6269, 2543, 6405, 2543, 6405, 1933],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "poly",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [
-      8576, 2035, 8983, 1601, 9078, 1682, 8820, 2007, 8874, 2143, 8793, 2292
-    ],
-    "href": "NW-1.png"
+    "href": "https://iwaicruisetourism.com/kalughat"
   },
   {
     "id": "nw1",
@@ -217,19 +55,7 @@
     "coords": [
       8847, 2462, 8779, 2313, 8860, 2245, 9498, 1879, 9553, 2001, 8969, 2313
     ],
-    "href": "NW-1.png"
-  },
-  {
-    "id": "nw1",
-    "title": "NW1",
-    "shape": "poly",
-    "name": "NW1",
-    "fillColor": "#eab54d4d",
-    "strokeColor": "black",
-    "coords": [
-      8915, 2408, 8969, 2543, 9118, 2448, 9715, 2285, 9661, 2163, 9091, 2313
-    ],
-    "href": "NW-1.png"
+    "href": "https://iwaicruisetourism.com/sahibganj/"
   },
   {
     "id": "nw1",
@@ -241,16 +67,16 @@
     "coords": [
       9037, 2733, 9118, 2869, 9254, 2828, 9783, 2814, 9756, 2706, 9118, 2638
     ],
-    "href": "NW-1.png"
+    "href": "https://iwaicruisetourism.com/farakka-multi-modak-terminal/"
   },
   {
     "id": "jetty",
-    "title": "hetty",
+    "title": "jetty",
     "shape": "rect",
-    "name": "NW6",
+    "name": "jetty",
     "fillColor": "#eab54d4d",
     "strokeColor": "black",
-    "coords": [12943, 8059, 14951, 8425],
-    "href": "NW-6.png"
+    "coords": [8800, 7759, 15100, 8125],
+    "href": "#"
   }
 ]
