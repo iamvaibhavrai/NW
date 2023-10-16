@@ -37,5 +37,18 @@
       9675, 2577, 9566, 2401
     ],
     "href": "http://iwaicruisetourism.com/bogibeel-iprcl/"
+  },
+  {
+    "id": "nw1",
+    "title": "NW1",
+    "shape": "poly",
+    "name": "NW1",
+    "fillColor": "#eab54d4d",
+    "strokeColor": "black",
+    "coords": [
+      7326, 2827, 7339, 2989, 8357, 3030, 8438, 3328, 8588, 3261, 8588, 3044,
+      8533, 2854
+    ],
+    "href": "https://iwaicruisetourism.com/bishwanath-ghat/"
   }
 ]
